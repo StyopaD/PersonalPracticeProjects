@@ -1,2 +1,2 @@
 # PersonalPracticeProjects
-Every personal project to practice
+Every personal project to practice, you know!
